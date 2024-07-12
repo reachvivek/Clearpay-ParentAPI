@@ -1,0 +1,12 @@
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\PaymentAdvisoryPortalParentAPI.exe
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\appsettings.Development.json
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\appsettings.json
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\PaymentAdvisoryPortalParentAPI.dll
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\PaymentAdvisoryPortalParentAPI.deps.json
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\PaymentAdvisoryPortalParentAPI.runtimeconfig.json
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\PaymentAdvisoryPortalParentAPI.pdb
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CMS\payment-advisory-portal\backend\ParentAPI\PaymentAdvisoryPortalParentAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

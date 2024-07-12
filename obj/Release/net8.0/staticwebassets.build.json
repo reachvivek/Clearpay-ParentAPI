@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lAXvks4HnbQEUKPbDwhR1E8iISUy3qwbfcNJSpa8lys=",
+  "Source": "PaymentAdvisoryPortalParentAPI",
+  "BasePath": "_content/PaymentAdvisoryPortalParentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
